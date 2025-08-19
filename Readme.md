@@ -1,5 +1,6 @@
-Deployed Contract Address = ST3WS0T17AP8FMT7NXC6J6FWJH5X5QFPAVHBPY5N1.nft-tree
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1f2e3e8-1d0f-40b9-ab91-701303e67e75" />Deployed Contract Address = ST3WS0T17AP8FMT7NXC6J6FWJH5X5QFPAVHBPY5N1.nft-tree
 explorer https://explorer.hiro.so/txid/0x30e613639e49045974c38006a1179ee1fda6e23b5ade093a7985bbf4c4b4fd56?chain=testnet
+
 
 🪙 Simple Token + NFT Counter (Stacks / Clarity)
 📜 Overview
@@ -15,6 +16,9 @@ A basic non-fungible token (NFT)
 A simple counter variable for testing
 
 Perfect for learning, demos, or boilerplate for bigger projects.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce976810-679f-4b6b-b9bb-cf004874f800" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03465ada-d950-47f3-9e17-1e90c3f108a6" />
 
 ⭐ Features
 
