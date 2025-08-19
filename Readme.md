@@ -1,4 +1,5 @@
 Deployed Contract Address = ST3WS0T17AP8FMT7NXC6J6FWJH5X5QFPAVHBPY5N1.nft-tree
+explorer https://explorer.hiro.so/txid/0x30e613639e49045974c38006a1179ee1fda6e23b5ade093a7985bbf4c4b4fd56?chain=testnet
 
 🪙 Simple Token + NFT Counter (Stacks / Clarity)
 📜 Overview
